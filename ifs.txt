@@ -1,2 +1,7 @@
 here creating this file as a manual.
 Checking the branch in this file.
+adding some lines for branch demo...
+
+python is the easiest language...
+odoo is the ERP tool.
+it was a oper source module. 
